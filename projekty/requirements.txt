@@ -1,0 +1,4 @@
+pandas
+rank_bm25
+spacy
+tqdm
